@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thoyib07
-- 👀 I’m interested in programming espesialy in web development
+- 👀 I’m interested in programming especially in web development
 - 🌱 I’m currently learning NodeJS & Python
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me by email to thoyibh07@gmail.com
